@@ -1,0 +1,5 @@
+{
+  "installCommand": "npm install --no-audit --no-fund",
+  "buildCommand": "node scripts/with-app-env.mjs vite build",
+  "framework": "tanstack-start"
+}
